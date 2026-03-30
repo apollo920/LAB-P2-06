@@ -1,6 +1,6 @@
 import re
 import copy
-from tarefa1_get_stats import get_stats, vocab as vocab_inicial
+from tarefas.tarefa1_get_stats import get_stats, vocab as vocab_inicial
 
 
 def merge_vocab(pair, v_in):
